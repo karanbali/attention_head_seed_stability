@@ -1,0 +1,6 @@
+name: py3.10.4
+channels:
+  - defaults
+dependencies:
+  - python=3.10.4
+  - huggingface_hub
